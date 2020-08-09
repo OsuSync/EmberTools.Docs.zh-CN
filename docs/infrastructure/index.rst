@@ -1,4 +1,4 @@
-框架基础设施
+基础设施
 ==============
 
 .. toctree::
@@ -6,3 +6,4 @@
   :glob:
 
   kernel/index.rst
+  core/index.rst
