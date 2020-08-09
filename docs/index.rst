@@ -16,6 +16,7 @@ EmberTools是一个osu!游戏工具框架，内含大量基础设施可供快速
 
    getting-started/index.rst
    infrastructure/index.rst
+   plugins/index.rst
 
 Indices and tables
 ==========================
