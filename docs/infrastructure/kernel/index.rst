@@ -12,3 +12,4 @@ Kernel 基础设施
   pluginconfig.rst
   eventbus.rst
   statistic.rst
+  ui.rst
